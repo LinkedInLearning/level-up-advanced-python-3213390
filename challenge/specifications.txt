@@ -1,0 +1,9 @@
+feature: custom_url
+    requirements: between 3 and 100 characters
+    permitted characters: a-z A-Z 0-9
+
+feature: login
+    requirements: between 5 and 50 characters
+    login characters:  a-z A-Z 0-9 . _ -
+
+

@@ -1,0 +1,101 @@
+   TIME       Athlete                                   Race date        Date of birth Location   
+   31:55.6    Edith Masai (KEN)                         02 Aug 2008      04 Apr 1967   Cape Elizabeth ME USA
+   32:23      Christelle Daunay (FRA)                   30 Aug 2015      05 Dec 1974   Arras FRA
+   32:23      Christelle Daunay- 2                      22 May 2016      05 Dec 1974   Manchester ENG
+   32:25      Priscilla Welch (CO/ENG)                  02 Mar 1985      22 Nov 1944   Phoenix AZ USA
+   32:28      Veerle Dejaeghere (BEL)                   06 Sep 2015      01 Aug 1973   Tilburg NED
+   32:29      Deena Kastor (CA/USA)                     03 Aug 2013      14 Feb 1973   Cape Elizabeth ME USA
+   32:31      Colleen De Reuck (CO/USA)                 04 Jul 2004      16 Apr 1964   Atlanta GA USA
+   32:31      Gloria Marconi (ITA)                      20 May 2008      31 Mar 1968   Prato ITA
+   32:32.006  Jennifer Rhines (CA/USA)                  13 Oct 2014      01 Jul 1974   Boston MA USA
+   32:35      Christelle Daunay-    3                   18 Jun 2016      05 Dec 1974   Langueux FRA
+   32:36.4    Christine Bardelle (FRA)                  09 Nov 2014      16 Aug 1974   Ales FRA
+   32:39      Carla Beurskens (NED)                     10 Apr 1994      15 Feb 1952   Brunssum NED
+   32:40      Priscilla Welch- 2                        10 Feb 1985      22 Nov 1944   Hallandale FL USA
+   32:41      Priscilla Welch- 3                        20 Oct 1985      22 Nov 1944   South Bend IN USA
+   32:41      Tatyana Pozdniakova (UKR)                 11 Apr 1998      04 Mar 1955   New Orleans LA USA
+   32:43      Priscilla Welch- 4                        10 Oct 1987      22 Nov 1944   Davenport IA USA
+   32:47      Joanne Pavey (ENG)                        21 Sep 2014      20 Sep 1973   London ENG
+   32:50      Colleen De Reuck- 2                       12 Jun 2004      16 Apr 1964   New York NY USA
+   32:51.8    Sinead Diver (AUS)                        18 Jun 2017      17 Feb 1977   Launceston AUS
+   32:52      Fatima Yvelain (FRA)                      10 Jan 2010      31 Dec 1969   Nice FRA
+   32:53      Colleen De Reuck- 3                       20 Aug 2005      16 Apr 1964   Minneapolis MN USA
+   32:54      Priscilla Welch- 5                        21 Apr 1985      22 Nov 1944   Boston MA USA
+   32:55      Stephanie Herbst (GA/USA)                 26 Jul 2008      27 Dec 1965   Minneapolis MN USA
+   32:56      Joanne Pavey- 2                           25 May 2015      20 Sep 1973   London ENG
+   32:57      Christelle Daunay- 4                      27 Dec 2015      05 Dec 1974   Houilles FRA
+   32:57      Joanne Pavey- 3                           29 May 2017      20 Sep 1973   London ENG
+   32:58      Priscilla Welch- 6                        04 Jul 1985      22 Nov 1944   Atlanta GA USA
+   33:02      Tatyana Pozdniakova- 2                    24 Oct 1998      04 Mar 1955   San Antonio TX USA
+   33:02      Gitte Karlshoj (DEN)                      01 Sep 2002      14 May 1959   Hamburg GER
+   33:04      Marie Soderstrom (SWE)                    06 May 2002      21 Oct 1960   Orebro SWE
+   33:04      Jennifer Rhines- 2                        04 Jul 2014      01 Jul 1974   Atlanta GA USA
+   33:06      Gitte Karlshoj-    2                      02 Sep 2001      14 May 1959   Hamburg GER
+   33:07      Christelle Daunay- 5                      04 Jul 2015      05 Dec 1974   Atlanta GA USA
+   33:08      Priscilla Welch- 7                        01 Feb 1986      22 Nov 1944   Miami FL USA
+   33:08      Priscilla Welch- 8                        22 Oct 1989      22 Nov 1944   Baltimore MD USA
+   33:08      Christelle Daunay- 6                      28 May 2017      05 Dec 1974   Manchester ENG
+   33:09      Lorraine Moller (CO/NZL)                  04 Jul 1996      01 Jun 1955   Atlanta GA USA
+   33:10      Lorraine Moller- 2                        04 Jul 1995      01 Jun 1955   Atlanta GA USA
+   33:11      Emma Stepto (ENG)                         16 Nov 2014      04 Apr 1970   Leeds ENG
+   33:11      Joanne Pavey- 4                           20 Sep 2015      20 Sep 1973   Worcester ENG
+   33:11      Joanne Pavey -     5                      18 Sep 2016      20 Sep 1973   Richmond ENG
+   33:12      Chantal Dallenbach (FRA)                  23 Mar 2003      24 Oct 1962   La Courneuve FRA
+   33:12      Firiya Sultanova (RUS)                    11 May 2003      29 Apr 1961   Washington DC USA
+   33:12.4    Lyubov Kremlyova     (RUS)                23 Feb 2003      21 Dec 1961   San Juan PUR
+   33:13      Colleen De Reuck- 4                       04 Jul 2005      16 Apr 1964   Atlanta GA USA
+   33:16      Gitte Karlshoj- 3                         31 Aug 2003      14 May 1959   Hamburg GER
+   33:16      Irina Permitina (RUS)                     30 Apr 2011      02 Mar 1968   Zhukovskiy RUS
+   33:17      Deena Kastor- 2                           14 Jun 2014      14 Feb 1973   New York NY USA
+   33:18      Marina Belyayeva      (RUS)               06 Jun 1999      26 Oct 1958   Tilburg NED
+   33:18      Gloria Marconi- 2                         20 Jun 2009      31 Mar 1968   Florence ITA
+   33:19      Priscilla Welch- 9                        11 Mar 1989      22 Nov 1944   Orlando FL USA
+   33:19      Tatyana Pozdniakova- 3                    30 Apr 1995      04 Mar 1955   Washington DC USA
+   33:19      Chantal Dallenbach- 2                     02 Feb 2003      24 Oct 1962   Leucate FRA
+   33:20      Carla Beurskens-   2                      09 May 1993      15 Feb 1952   Brunssum NED
+   33:20      Nadezhda Wijenberg     (NED)              17 Apr 2005      02 Apr 1964   Hilversum NED
+   33:20      Stephanie Herbst- 2                       04 Jul 2010      27 Dec 1965   Atlanta GA USA
+   33:21      Priscilla Welch- 10                       04 Jul 1986      22 Nov 1944   Atlanta GA USA
+   33:21      Helen Clitheroe (ENG)                     18 May 2014      02 Jan 1974   Manchester ENG
+   33:21      Joanne Pavey- 6                           10 May 2015      20 Sep 1973   Manchester ENG
+   33:21      Jennifer Rhines- 3                        26 Mar 2016      01 Jul 1974   New Orleans LA USA
+   33:21      Valeria Straneo (ITA)                     31 Dec 2016      05 Apr 1976   Rome ITA
+   33:22      Ruth Wysocki (CA/USA)                     22 Mar 1997      08 Mar 1957   Mobile AL USA
+   33:22      Veerle Dejaeghere-      2                 16 Aug 2015      01 Aug 1973   Wierden NED
+   33:25      Priscilla Welch- 11                       25 Nov 1984      22 Nov 1944   Braintree MA USA
+   33:25      Lyudmila Korchagina (ON/CAN)              21 Apr 2013      26 Jul 1971   Vancouver BC CAN
+   33:25      Jennifer Rhines-   4                      15 Nov 2015      01 Jul 1974   Alexandria VA USA
+   33:26      Carla Beurskens-     3                    02 Apr 1995      15 Feb 1952   Brunssum NED
+   33:27      Fatima Yvelain- 2                         14 Feb 2010      31 Dec 1969   Cannes FRA
+   33:29      Ramilya Burangulova (RUS)                 10 Nov 2001      11 Jul 1961   Jacksonville FL USA
+   33:29      Lyubov Kremlyova- 2                       23 Mar 2002      21 Dec 1961   Mobile AL USA
+   33:29      Nadezhda Wijenberg- 2                     28 Mar 2005      02 Apr 1964   Utrecht NED
+   33:30      Sylvia Mosqueda (CA/USA)                  31 Mar 2007      08 Apr 1966   Charleston SC USA
+   33:30      Emma Stepto-    2                         17 Nov 2013      04 Apr 1970   Leeds ENG
+   33:30      Patrizia Morceli (SUI)                    28 Dec 2014      11 Jul 1974   Houilles FRA
+   33:30      Jennifer Rhines-    5                     10 Oct 2016      01 Jul 1974   Boston MA USA
+   33:31      Tatyana Pozdniakova- 4                    12 Aug 1995      04 Mar 1955   Red Bank NJ USA
+   33:31      Jennifer Rhines-   6                      06 Sep 2014      01 Jul 1974   Prague CZE
+   33:32      Carla Beurskens- 4                        12 Sep 1993      15 Feb 1952   Rotterdam NED
+   33:32      Christelle Daunay- 7                      31 Dec 2016      05 Dec 1974   Rome ITA
+   33:33      Colleen De Reuck- 5                       25 Sep 2005      16 Apr 1964   Paso Robles CA USA
+   33:34      Ramilya Burangulova- 2                    26 May 2003      11 Jul 1961   Huntsville AL USA
+   33:35      Lorraine Moller- 3                        10 Jun 1995      01 Jun 1955   New York NY USA
+   33:35      Michelle Cope (ENG)                       06 Sep 2015      31 Jan 1972   Cardiff WAL
+   33:35.7    Leah Pells (CAN)                          17 Apr 2005      09 Nov 1964   Vancouver BC CAN
+   33:36      Lucy Elliott (ENG)                        19 Mar 2006      09 Mar 1966   Eastleigh ENG
+   33:36      Jacqueline Martin Alvarez (ESP)           19 Mar 2016      14 Apr 1974   Laredo ESP
+   33:37      Priscilla Welch-     12                   13 Apr 1986      22 Nov 1944   Boston MA USA
+   33:37      Priscilla Welch-    13                    12 Apr 1987      22 Nov 1944   Boston MA USA
+   33:37      Marina Belyayeva- 2                       07 Aug 1999      26 Oct 1958   Cape Elizabeth ME USA
+   33:37      Judi St Hilaire (MA/USA)                  05 Aug 2000      05 Sep 1959   Cape Elizabeth ME USA
+   33:37      Valentina Yegorova (RUS)                  27 Mar 2004      16 Feb 1964   Mobile AL USA
+   33:38      Priscilla Welch-   14                     04 Jul 1987      22 Nov 1944   Atlanta GA USA
+   33:38      Tatyana Pozdniakova- 5                    07 Aug 1999      04 Mar 1955   Cape Elizabeth ME USA
+   33:38      Anne vanSchuppen (NED)                    07 Apr 2002      11 Oct 1960   Hilversum NED
+   33:38      Marianne vanderLinden (NED)               19 Oct 2002      06 Jul 1962   Waddinxveen NED
+   33:38      Leah Pells-   2                           24 Apr 2005      09 Nov 1964   Victoria BC CAN
+   33:38      Anzhelika Averkova (UKR)                  27 Mar 2010      13 Mar 1969   Charleston SC USA
+   33:38      Carmen Oliveras (FRA)                     10 Dec 2011      29 Jun 1971   Saint Germain en Laye FRA
+   33:39      Michelle Cope-   2                        15 Nov 2015      31 Jan 1972   Leeds ENG
+   33:40      Tatyana Pozdniakova- 6                    08 Jun 1997      04 Mar 1955   Middletown NY USA
