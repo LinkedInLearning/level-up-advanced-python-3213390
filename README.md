@@ -12,5 +12,5 @@ Jonathan Fernandes
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/jonathan-fernandes).
 
 [lil-course-url]: https://www.linkedin.com/learning/level-up-advanced-python
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/C560DAQG5XoX3jZJ-HA/learning-public-crop_675_1200/0/1666298318400?e=1667952000&v=beta&t=xFVi372GTdOSHZETau_EWJbAYevmmAv4HOHluMNGvV8
+[lil-thumbnail-url]: https://cdn.lynda.com/course/3213390/3213390-1667864247408-16x9.jpg
 [gcs-video-url]: https://www.linkedin.com/learning/level-up-advanced-python/using-github-codespaces-with-this-course
