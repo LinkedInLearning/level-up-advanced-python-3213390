@@ -1,5 +1,5 @@
 # Level Up: Advanced Python 
-This is the repository for the LinkedIn Learning course Level Up: Advanced Python . The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Level Up: Advanced Python. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![Level Up: Advanced Python ][lil-thumbnail-url]
 
