@@ -1,4 +1,4 @@
-from medals import medal, medals, get_medals
+from challenge.medals import medal, medals, get_medals
 
 def test_two_medals():
     expected = [medal(City='Los Angeles', Edition='1984', Sport='Athletics', Discipline='Athletics', Athlete='LEWIS, Carl', NOC='USA', Gender='Men', Event='100m', Event_gender='M', Medal='Gold'),

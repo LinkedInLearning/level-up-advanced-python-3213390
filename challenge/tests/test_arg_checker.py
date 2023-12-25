@@ -1,4 +1,4 @@
-from arg_checker import arg_checker
+from challenge.arg_checker import arg_checker
 import pytest
 
 arg_checker(int, int, int)

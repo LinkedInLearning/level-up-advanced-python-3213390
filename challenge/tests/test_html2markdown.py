@@ -1,4 +1,4 @@
-from html2markdown import html2markdown
+from challenge.html2markdown import html2markdown
 
 def test_italics():
     html = 'This is in <em>italics</em>. So is <em>this</em>'

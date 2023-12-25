@@ -1,4 +1,4 @@
-from pairwise_offset import pairwise_offset
+from challenge.pairwise_offset import pairwise_offset
 
 def test_no_offset():
     actual = list(pairwise_offset('abcde'))
